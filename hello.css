@@ -1,0 +1,14 @@
+*{
+	background-color: lightgreen;
+	text-align: center;
+
+}
+
+#lin:hover{
+	color: green;
+
+}
+
+.para:hover{
+	background-color: white;
+}
